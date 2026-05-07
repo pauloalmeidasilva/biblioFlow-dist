@@ -1,0 +1,177 @@
+{
+  "empresa": {
+    "nome": "Espaço Cultural Dr. Além",
+    "cnpj": "45.699.626/0001-76",
+    "logradouro": "Avenida Doutor Januário Miraglia",
+    "numero": "1582",
+    "bairro": "Vila Abernéssia",
+    "complemento": "",
+    "cidade": "Campos do Jordão",
+    "estado": "SP",
+    "cep": "12467-014",
+    "telefone": "(12) 3664-2300",
+    "multa_por_dia": 2,
+    "prazo_emprestimo_dias": 7
+  },
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Administrador",
+      "email": "admin@biblioflow.com",
+      "senha": "admin123",
+      "tipo": "Admin",
+      "ativo": true
+    }
+  ],
+  "tipos_acervo": [
+    {
+      "id": 1,
+      "nome": "Livro"
+    },
+    {
+      "id": 2,
+      "nome": "VHS"
+    },
+    {
+      "id": 3,
+      "nome": "DVD"
+    },
+    {
+      "id": 4,
+      "nome": "Blue-ray"
+    },
+    {
+      "id": 5,
+      "nome": "Revista"
+    },
+    {
+      "id": 6,
+      "nome": "CD"
+    },
+    {
+      "id": 7,
+      "nome": "Periódicos"
+    },
+    {
+      "id": 8,
+      "nome": "E-books"
+    },
+    {
+      "id": 9,
+      "nome": "HQ - Histórias em Quadrinhos"
+    },
+    {
+      "id": 10,
+      "nome": "Partituras"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Literatura"
+    },
+    {
+      "id": 2,
+      "nome": "Ficção Científica"
+    },
+    {
+      "id": 3,
+      "nome": "Ação"
+    },
+    {
+      "id": 4,
+      "nome": "Documentário"
+    },
+    {
+      "id": 5,
+      "nome": "Biografia"
+    },
+    {
+      "id": 6,
+      "nome": "Auto ajuda"
+    },
+    {
+      "id": 7,
+      "nome": "Acadêmico"
+    },
+    {
+      "id": 8,
+      "nome": "Drama"
+    },
+    {
+      "id": 9,
+      "nome": "Comédia"
+    },
+    {
+      "id": 10,
+      "nome": "Suspense"
+    },
+    {
+      "id": 11,
+      "nome": "Terror"
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "a",
+      "cpf": "12345678900",
+      "email": "a@a.com",
+      "telefone": "1",
+      "cep": "12466150",
+      "logradouro": "Rua João Inácio Bicudo",
+      "numero": "444",
+      "bairro": "Vila Paulista",
+      "complemento": "",
+      "cidade": "Campos do Jordão",
+      "estado": "SP",
+      "id": 1
+    }
+  ],
+  "acervo": [
+    {
+      "titulo": "Livro 1",
+      "tipo": "Livro",
+      "categoria": "teste",
+      "ano": "2000",
+      "codigo": "1234567890000",
+      "quantidade_total": 2,
+      "id": 1,
+      "quantidade_disponivel": 2
+    },
+    {
+      "titulo": "Livro 2",
+      "tipo": "Livro",
+      "categoria": "Teste",
+      "ano": "2005",
+      "codigo": "9998887776665",
+      "quantidade_total": 1,
+      "id": 2,
+      "quantidade_disponivel": 1
+    },
+    {
+      "titulo": "Night as frontier",
+      "tipo": "Livro",
+      "categoria": "Literatura",
+      "ano": "1987",
+      "codigo": "0029209404",
+      "quantidade_total": 1,
+      "id": 3,
+      "quantidade_disponivel": 1
+    }
+  ],
+  "emprestimos": [
+    {
+      "id": 1,
+      "cliente_id": 1,
+      "cliente_nome": "a",
+      "data_emprestimo": "2026-05-06",
+      "data_prevista": "2026-05-13",
+      "data_devolucao": "2026-05-06",
+      "status": "Devolvido",
+      "multa": 0,
+      "itens": [
+        1
+      ]
+    }
+  ]
+}

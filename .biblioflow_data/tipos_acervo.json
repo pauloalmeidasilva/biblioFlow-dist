@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Livro"
+  },
+  {
+    "id": 2,
+    "nome": "VHS"
+  },
+  {
+    "id": 3,
+    "nome": "DVD"
+  },
+  {
+    "id": 4,
+    "nome": "Blue-ray"
+  },
+  {
+    "id": 5,
+    "nome": "Revista"
+  },
+  {
+    "id": 6,
+    "nome": "CD"
+  },
+  {
+    "id": 7,
+    "nome": "Periódicos"
+  },
+  {
+    "id": 8,
+    "nome": "E-books"
+  },
+  {
+    "id": 9,
+    "nome": "HQ - Histórias em Quadrinhos"
+  },
+  {
+    "id": 10,
+    "nome": "Partituras"
+  }
+]

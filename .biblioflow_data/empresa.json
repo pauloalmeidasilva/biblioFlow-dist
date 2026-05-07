@@ -1,0 +1,14 @@
+{
+  "nome": "Espaço Cultural Dr. Além",
+  "cnpj": "45.699.626/0001-76",
+  "logradouro": "Avenida Doutor Januário Miraglia",
+  "numero": "1582",
+  "bairro": "Vila Abernéssia",
+  "complemento": "",
+  "cidade": "Campos do Jordão",
+  "estado": "SP",
+  "cep": "12467-014",
+  "telefone": "(12) 3664-2300",
+  "multa_por_dia": 2,
+  "prazo_emprestimo_dias": 7
+}

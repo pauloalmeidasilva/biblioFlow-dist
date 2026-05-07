@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 1,
+    "cliente_nome": "a",
+    "data_emprestimo": "2026-05-06",
+    "data_prevista": "2026-05-13",
+    "data_devolucao": "2026-05-06",
+    "status": "Devolvido",
+    "multa": 0,
+    "itens": [
+      1
+    ]
+  }
+]
