@@ -1,0 +1,10 @@
+ERROR 2026-05-08 21:13:25,116 NE_RS_UNBLDRE: Unable to load application resource file /frontend/favicon.ico D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:13:25,202 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:13:44,294 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:13:48,983 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:13:53,075 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:13:56,967 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:15:56,059 NE_RS_UNBLDRE: Unable to load application resource file /frontend/favicon.ico D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:15:56,373 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:16:06,167 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
+ERROR 2026-05-08 21:16:12,903 NE_RS_UNBLDRE: Unable to load application resource file /frontend/.well-known/appspecific/com.chrome.devtools.json D:\a\neutralinojs\neutralinojs\api\debug\debug.cpp:20 paulo@PAULO
